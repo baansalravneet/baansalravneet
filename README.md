@@ -7,10 +7,6 @@
 </div>
 <hr>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=baansalravneet&theme=dark&background=000000" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baansalravneet&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak"/>
 </p>
 <!--
